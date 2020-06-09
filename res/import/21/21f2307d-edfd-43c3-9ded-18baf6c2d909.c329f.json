@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_chacknadd",
+    "texture": "64KtrG7FpCeJxehXJZhcy7",
+    "rect": [
+      4,
+      1,
+      94,
+      88
+    ],
+    "offset": [
+      1.5,
+      0
+    ],
+    "originalSize": [
+      99,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
